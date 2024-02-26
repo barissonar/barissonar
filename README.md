@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, C#**
 
 - 💬 Ask me about **Web Development (Python,Django,HTML5,CSS,Javascript)**
 
