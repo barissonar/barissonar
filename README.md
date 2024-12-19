@@ -2,7 +2,7 @@
   <img src="https://www.trio.dev/hubfs/Imported_Blog_Media/26d95bb47f7e596f4bb99831bd11ecd1-3.jpg" alt="MasterHead" style="height: 350px;width:1000px">
 </a>
 <h1 align="center">Hi 👋, I'm Baris</h1>
-<h3 align="center">I'm a Full Stack Developer who loves learning new technologies.</h3>
+<h3 align="center">I'm a Frontend Developer who loves learning new technologies.</h3>
 <img align="right" alt="coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 
